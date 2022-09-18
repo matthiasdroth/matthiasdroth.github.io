@@ -1,7 +1,7 @@
 <img src="images/md.png" width="15%">
 
 <h1>Welcome to my <i>github.io</i>!</h1>
-<p>Via this webpage, you can <b>view and verify</b> my certifications. For further details on my curriculum vitæ and interests, please refer to my <a href="https://de.linkedin.com/in/matthias-droth", target="_blank">Linked<b>in</b></a> and <a href="https://github.com/matthiasdroth", target="_blank">GitHub</a><a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank">Verify</a> profiles.</p>
+<p>Via this webpage, you can <b>view and verify</b> my certifications. For further details on my curriculum vitæ and interests, please refer to my <a href="https://de.linkedin.com/in/matthias-droth", target="_blank">Linked<b>in</b></a> and <a href="https://github.com/matthiasdroth/", target="_blank">GitHub</a><a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank">Verify</a> profiles.</p>
 
 <a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank">Verify</a>
 
