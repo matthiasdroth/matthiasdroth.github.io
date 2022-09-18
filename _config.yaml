@@ -1,5 +1,17 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
+theme: jekyll-theme-minima
+title: Matthias Droth's Homepage
 description: Bookmark this to keep an eye on my project updates!
-# this is a comment
-# list possible themes
+# list possible themes:
+#   Architect
+#   Cayman
+#   Dinky
+#   Hacker
+#   Leap day
+#   Merlot
+#   Midnight
+#   Minima
+#   Minimal
+#   Modernist
+#   Slate
+#   Tactile
+#   Time machine
