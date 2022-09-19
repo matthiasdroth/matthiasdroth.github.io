@@ -1,19 +1,19 @@
 <img src="images/md.png" width="15%">
 
 <h1>Welcome to my <i>github.io</i>!</h1>
-<p>Via this webpage, you can <b>view and verify</b> my certifications. For further details on my curriculum vitæ and interests, please refer to my <a target="_blank", href="https://de.linkedin.com/in/matthias-droth">Linked<b>in</b></a> and <a target="_blank", href="https://github.com/matthiasdroth/">GitHub</a><a target="_blank", href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6">Verify</a> profiles.</p>
+<p>Via this webpage, you can <b>view and verify</b> my certifications. For further details on my curriculum vitæ and interests, please refer to my <a href="https://de.linkedin.com/in/matthias-droth" target="_blank" rel=“noopener noreferrer">Linked<b>in</b></a> and <a href="https://github.com/matthiasdroth/" target="_blank" rel=“noopener noreferrer">GitHub</a><a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank" rel=“noopener noreferrer">Verify</a> profiles.</p>
 
-<a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank">Verify</a>
+<a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="\_blank" rel=“noopener noreferrer">Verify</a>
 
-<p>For everything else, please contact me via <a href="mailto:matthias.droth@gmail.com" target="_blank">email</a>. I am looking forward to hear from you.</p>
+<p>For everything else, please contact me via <a href="mailto:matthias.droth@gmail.com" target="_blank" rel=“noopener noreferrer">email</a>. I am looking forward to hear from you.</p>
 <hr>
 <!---->
 <div>
 <h4>XCS224U - Natural Language Understanding</h4>
 <p>
 Stanford School of Engineering</p>
-<a href="https://digitalcredential.stanford.edu/check/FC296E8BA54CC34BFA87E0CA11BBF7228B51D2E95D730E420708957B2FEDFB14bGpvcTd0eWl2WFBJTmxHMmxyNU1kLy94eDlndDk3LzFOdExBWGN1aitrZDBnWXU5" target="_blank"><img src="images/xcs224u.png" width="100%"></a>
-<a href="https://digitalcredential.stanford.edu/check/FC296E8BA54CC34BFA87E0CA11BBF7228B51D2E95D730E420708957B2FEDFB14bGpvcTd0eWl2WFBJTmxHMmxyNU1kLy94eDlndDk3LzFOdExBWGN1aitrZDBnWXU5" target="_blank">Verify</a>
+<a href="https://digitalcredential.stanford.edu/check/FC296E8BA54CC34BFA87E0CA11BBF7228B51D2E95D730E420708957B2FEDFB14bGpvcTd0eWl2WFBJTmxHMmxyNU1kLy94eDlndDk3LzFOdExBWGN1aitrZDBnWXU5" target="_blank" rel=“noopener noreferrer"><img src="images/xcs224u.png" width="100%"></a>
+<a href="https://digitalcredential.stanford.edu/check/FC296E8BA54CC34BFA87E0CA11BBF7228B51D2E95D730E420708957B2FEDFB14bGpvcTd0eWl2WFBJTmxHMmxyNU1kLy94eDlndDk3LzFOdExBWGN1aitrZDBnWXU5" target="_blank" rel=“noopener noreferrer">Verify</a>
 </div>
 <!---->
 <hr>
@@ -21,8 +21,8 @@ Stanford School of Engineering</p>
 <h4>AWS Certified Cloud Practitioner</h4>
 <p>
 Amazon Web Services</p>
-<a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank"><img src="images/AWS_CP.png" width="100%"></a>
-<a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank">Verify</a>
+<a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank" rel=“noopener noreferrer"><img src="images/AWS_CP.png" width="100%"></a>
+<a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank" rel=“noopener noreferrer">Verify</a>
 </div>
 <!---->
 <hr>
@@ -30,8 +30,8 @@ Amazon Web Services</p>
 <h4>Serverless using AWS Lambda for Python Developers</h4>
 <p>
 Udemy</p>
-<a href="https://www.udemy.com/certificate/UC-f9f08167-43df-46f6-9adb-609b66fc25a9/" target="_blank"><img src="images/Udemy_AWS_Serverless_Lambda.png" width="100%"></a>
-<a href="https://www.udemy.com/certificate/UC-f9f08167-43df-46f6-9adb-609b66fc25a9/" target="_blank">Verify</a>
+<a href="https://www.udemy.com/certificate/UC-f9f08167-43df-46f6-9adb-609b66fc25a9/" target="_blank" rel=“noopener noreferrer"><img src="images/Udemy_AWS_Serverless_Lambda.png" width="100%"></a>
+<a href="https://www.udemy.com/certificate/UC-f9f08167-43df-46f6-9adb-609b66fc25a9/" target="_blank" rel=“noopener noreferrer">Verify</a>
 </div>
 <!---->
 <hr>
@@ -40,7 +40,7 @@ Udemy</p>
 <p>
 Coursera</p>
 <a href="https://coursera.org/share/366081d842415b63c87e15cc71f5520a" target="_blank"><img src="images/Coursera_Agile.png" width="100%"></a>
-<a href="https://coursera.org/share/366081d842415b63c87e15cc71f5520a" target="_blank">Verify</a>
+<a href="https://coursera.org/share/366081d842415b63c87e15cc71f5520a" target="_blank" rel=“noopener noreferrer">Verify</a>
 </div>
 <!---->
 <hr>
@@ -48,8 +48,8 @@ Coursera</p>
 <h4>Building Transformer-Based Natural Language Processing Applications</h4>
 <p>
 Nvidia Deep Learning Institute</p>
-<a href="https://courses.nvidia.com/certificates/9631dd2e65324e3cbc352df537e10a4c/" target="_blank"><img src="images/Nvidia_Transformer_Apps.png" width="100%"></a>
-<a href="https://courses.nvidia.com/certificates/9631dd2e65324e3cbc352df537e10a4c/" target="_blank">Verify</a>
+<a href="https://courses.nvidia.com/certificates/9631dd2e65324e3cbc352df537e10a4c/" target="_blank" rel=“noopener noreferrer"><img src="images/Nvidia_Transformer_Apps.png" width="100%"></a>
+<a href="https://courses.nvidia.com/certificates/9631dd2e65324e3cbc352df537e10a4c/" target="_blank" rel=“noopener noreferrer">Verify</a>
 </div>
 <!---->
 <hr>
@@ -57,7 +57,7 @@ Nvidia Deep Learning Institute</p>
 <h4>Deep Learning: Advanced Computer Vision (GANs, SSD, +More!)</h4>
 <p>
 Udemy</p>
-<a href="https://www.udemy.com/certificate/UC-JT5ZMRRA/" target="_blank"><img src="images/Udemy_Computer_Vision.png" width="100%"></a>
-<a href="https://www.udemy.com/certificate/UC-JT5ZMRRA/" target="_blank">Verify</a>
+<a href="https://www.udemy.com/certificate/UC-JT5ZMRRA/" target="_blank" rel=“noopener noreferrer"><img src="images/Udemy_Computer_Vision.png" width="100%"></a>
+<a href="https://www.udemy.com/certificate/UC-JT5ZMRRA/" target="_blank" rel=“noopener noreferrer">Verify</a>
 </div>
 <!---->
