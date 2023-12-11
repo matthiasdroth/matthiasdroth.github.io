@@ -4,10 +4,16 @@
 <p>Here, you can <b>view and verify</b> my certifications. For further details on my curriculum vitæ and interests, please refer to my <a href="https://de.linkedin.com/in/matthias-droth" target="_blank">Linked<b>in</b></a> and <a href="https://github.com/matthiasdroth/" target="_blank">GitHub</a> profiles.</p>
 
 <p>Anything else &rArr; please contact me via <a href="mailto:matthias.droth@gmail.com" target="_blank">email</a>. I am looking forward to hear from you.</p>
-
 <!---->
+<h3>Sections</h3>
+<ul>
+<li><a href="1">AI / Machine Learning</a></li>
+<li><a href="2">Cloud / AWS</a></li>
+<li><a href="3">Management</a></li>
+</ul>
 <hr>
 <!--AI / Machine Learning-->
+<a name="1"></a>
 <h3>AI / Machine Learning</h3>
 <!---->
 <hr>
@@ -53,6 +59,7 @@ Nvidia Deep Learning Institute</p>
 <!---->
 <hr>
 <!--Cloud / AWS-->
+<a id="2"></a>
 <h3>Cloud / AWS</h3>
 <!---->
 <hr>
@@ -73,6 +80,7 @@ Nvidia Deep Learning Institute</p>
 <!---->
 <hr>
 <!--Management-->
+<div id="3"></div>
 <h3>Management</h3>
 <!---->
 <hr>
