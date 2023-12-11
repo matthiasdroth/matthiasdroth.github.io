@@ -7,15 +7,12 @@
 <!---->
 <h3>Sections</h3>
 <ul>
-<!--<li>[AI / Machine Learning](#AI / Machine Learning)</li>-->
-<li><a href="1">AI / Machine Learning</a></li>
-<li><a href="https://pontifex.live">Cloud / AWS</a></li>
-<li><a href="3">Management</a></li>
+<li><a href="https://matthiasdroth.github.io/#ai-machine-learning">AI / Machine Learning</a></li>
+<li><a href="https://matthiasdroth.github.io/#cloud-aws">Cloud / AWS</a></li>
+<li><a href="https://matthiasdroth.github.io/#management">Management</a></li>
 </ul>
-- [AI / Machine Learning](https://matthiasdroth.github.io/#ai-machine-learning)
 <hr>
 <!--AI / Machine Learning-->
-<a name="1"></a>
 <h3>AI / Machine Learning</h3>
 <!---->
 <hr>
@@ -61,7 +58,6 @@ Nvidia Deep Learning Institute</p>
 <!---->
 <hr>
 <!--Cloud / AWS-->
-<a id="2"></a>
 <h3>Cloud / AWS</h3>
 <!---->
 <hr>
@@ -82,7 +78,6 @@ Nvidia Deep Learning Institute</p>
 <!---->
 <hr>
 <!--Management-->
-<div id="3"></div>
 <h3>Management</h3>
 <!---->
 <hr>
