@@ -7,6 +7,7 @@
 <!---->
 <h3>Sections</h3>
 <ul>
+<li>[AI / Machine Learning](#AI / Machine Learning)</li>
 <li><a href="1">AI / Machine Learning</a></li>
 <li><a href="2">Cloud / AWS</a></li>
 <li><a href="3">Management</a></li>
