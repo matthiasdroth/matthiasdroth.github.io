@@ -82,6 +82,14 @@ Nvidia Deep Learning Institute</p>
 <!---->
 <hr>
 <div>
+<h4>Professional Scrum Master I</h4>
+<p>Scrum.org</p>
+<a href="https://www.credly.com/badges/e527b899-4211-4cca-8d64-f3b7cc749485" target="_blank"><img src="images/PSM_1.png" width="100%"></a>
+<a href="https://www.credly.com/badges/e527b899-4211-4cca-8d64-f3b7cc749485" target="_blank">Verify</a>
+</div>
+<!---->
+<hr>
+<div>
 <h4>Six Sigma Foundations</h4>
 <p>LinkedIn Learning</p>
 <a href="https://www.linkedin.com/learning/certificates/5f2d3514efef496e6d958eb669a0ffa41b4fa88af01a316a416c16355cbab962" target="_blank"><img src="images/Six_Sigma_Foundations.png" width="100%"></a>
