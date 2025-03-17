@@ -9,7 +9,7 @@
 <ul>
 <li><a href="https://matthiasdroth.github.io/#ai-machine-learning">AI / Machine Learning</a></li>
 <li><a href="https://matthiasdroth.github.io/#cloud-aws">Cloud / AWS</a></li>
-<li><a href="https://matthiasdroth.github.io/#management">Management</a></li>
+<li><a href="https://matthiasdroth.github.io/#agile-methods">Agile Methods</a></li>
 </ul>
 <hr>
 <!--AI / Machine Learning-->
@@ -77,8 +77,8 @@ Nvidia Deep Learning Institute</p>
 </div>
 <!---->
 <hr>
-<!--Management-->
-<h3>Management</h3>
+<!--Agile Methods-->
+<h3>Agile Methods</h3>
 <!---->
 <hr>
 <div>
