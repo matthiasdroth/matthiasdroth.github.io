@@ -104,3 +104,15 @@ Nvidia Deep Learning Institute</p>
 <a href="https://coursera.org/share/366081d842415b63c87e15cc71f5520a" target="_blank">Verify</a>
 </div>
 <!---->
+<hr>
+<!--Entrepreneurship-->
+<h3>Entrepreneurship</h3>
+<!---->
+<hr>
+<div>
+<h4>Launching Tech Ventures</h4>
+<p>Harvard Business School Online</p>
+<a href="[https://www.credly.com/badges/e527b899-4211-4cca-8d64-f3b7cc749485](https://doc-10-1o-apps-viewer.googleusercontent.com/viewer/secure/pdf/1lqel2aefe9qie51i1u5fdmc9hjlkn8e/m1usefm7bfrnfl9e001sb3n0r6prh6km/1752356775000/gmail/08488796812192110350/ACFrOgA2wUUsIeAfRRwzJKQ0nTBSQAA8G5NPd23xg9cGyIIId_o_H9soXNnF9lYUSG1or5C_jy6y1iKP7MlbmM2qCTqPKGA-AcsfPI-BqQuUBTrUssJKZbUZpGeuu2VO-TVA8yJK-geNNc22ZpeDKg9nytgT4TNpNmsEpIYgeg==?print=true&nonce=aa7oe0281q5k0&user=08488796812192110350&hash=n54amo72het22gushlmrs0k2oegcfk7j)" target="_blank"><img src="images/HBS_online.png" width="100%"></a>
+<a href="[https://www.credly.com/badges/e527b899-4211-4cca-8d64-f3b7cc749485](https://doc-10-1o-apps-viewer.googleusercontent.com/viewer/secure/pdf/1lqel2aefe9qie51i1u5fdmc9hjlkn8e/m1usefm7bfrnfl9e001sb3n0r6prh6km/1752356775000/gmail/08488796812192110350/ACFrOgA2wUUsIeAfRRwzJKQ0nTBSQAA8G5NPd23xg9cGyIIId_o_H9soXNnF9lYUSG1or5C_jy6y1iKP7MlbmM2qCTqPKGA-AcsfPI-BqQuUBTrUssJKZbUZpGeuu2VO-TVA8yJK-geNNc22ZpeDKg9nytgT4TNpNmsEpIYgeg==?print=true&nonce=aa7oe0281q5k0&user=08488796812192110350&hash=n54amo72het22gushlmrs0k2oegcfk7j)" target="_blank">Verify</a>
+</div>
+<!---->
