@@ -10,6 +10,7 @@
 <li><a href="https://matthiasdroth.github.io/#ai-machine-learning">AI / Machine Learning</a></li>
 <li><a href="https://matthiasdroth.github.io/#cloud-aws">Cloud / AWS</a></li>
 <li><a href="https://matthiasdroth.github.io/#agile-methods">Agile Methods</a></li>
+<li><a href="https://matthiasdroth.github.io/#entrepreneurship">Entrepreneurship</a></li>
 </ul>
 <hr>
 <!--AI / Machine Learning-->
