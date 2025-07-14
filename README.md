@@ -113,7 +113,7 @@ Nvidia Deep Learning Institute</p>
 <div>
 <h4>Launching Tech Ventures</h4>
 <p>Harvard Business School Online</p>
-<a href="https://doc-10-1o-apps-viewer.googleusercontent.com/viewer/secure/pdf/1lqel2aefe9qie51i1u5fdmc9hjlkn8e/2vq6l145dqv1d9ehrkqejg75f9r30t89/1752360600000/gmail/08488796812192110350/ACFrOgA2wUUsIeAfRRwzJKQ0nTBSQAA8G5NPd23xg9cGyIIId_o_H9soXNnF9lYUSG1or5C_jy6y1iKP7MlbmM2qCTqPKGA-AcsfPI-BqQuUBTrUssJKZbUZpGeuu2VO-TVA8yJK-geNNc22ZpeDKg9nytgT4TNpNmsEpIYgeg==?print=true&nonce=0u2qm965485po&user=08488796812192110350&hash=4c2p9ptlom2rjlkrc92bmtucdj9sthke" target="_blank"><img src="images/HBS_online.png" width="100%"></a>
-<a href="https://doc-10-1o-apps-viewer.googleusercontent.com/viewer/secure/pdf/1lqel2aefe9qie51i1u5fdmc9hjlkn8e/2vq6l145dqv1d9ehrkqejg75f9r30t89/1752360600000/gmail/08488796812192110350/ACFrOgA2wUUsIeAfRRwzJKQ0nTBSQAA8G5NPd23xg9cGyIIId_o_H9soXNnF9lYUSG1or5C_jy6y1iKP7MlbmM2qCTqPKGA-AcsfPI-BqQuUBTrUssJKZbUZpGeuu2VO-TVA8yJK-geNNc22ZpeDKg9nytgT4TNpNmsEpIYgeg==?print=true&nonce=0u2qm965485po&user=08488796812192110350&hash=4c2p9ptlom2rjlkrc92bmtucdj9sthke" target="_blank">Verify</a>
+<a href="https://github.com/matthiasdroth/matthiasdroth.github.io/blob/main/pdfs/1938026_eDiploma.pdf" target="_blank"><img src="images/HBS_online.png" width="100%"></a>
+<a href="https://github.com/matthiasdroth/matthiasdroth.github.io/blob/main/pdfs/1938026_eDiploma.pdf" target="_blank">Verify</a>
 </div>
 <!---->
