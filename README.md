@@ -114,6 +114,6 @@ Nvidia Deep Learning Institute</p>
 <h4>Launching Tech Ventures</h4>
 <p>Harvard Business School Online</p>
 <a href="https://github.com/matthiasdroth/matthiasdroth.github.io/blob/main/pdfs/1938026_eDiploma.pdf" target="_blank"><img src="images/HBS_online.png" width="100%"></a>
-<a href="https://github.com/matthiasdroth/matthiasdroth.github.io/blob/main/pdfs/1938026_eDiploma.pdf" target="_blank">Verify</a>
+<a href="https://online.hbs.edu/verify-certificate?dvid=2X4NCSQM" target="_blank">Verify</a>
 </div>
 <!---->
