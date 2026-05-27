@@ -93,7 +93,7 @@ Nvidia Deep Learning Institute</p>
 <div>
 <h4>Professional Scrum Product Owner I</h4>
 <p>Scrum.org</p>
-<a href="https://www.credly.com/badges/e527b899-4211-4cca-8d64-f3b7cc749485" target="_blank"><img src="images/PSPO_1.png" width="100%"></a>
+<a href="https://www.credly.com/badges/e527b899-4211-4cca-8d64-f3b7cc749485](https://www.credly.com/badges/a05ba98c-1858-4202-8d08-18378a2a483a)" target="_blank"><img src="images/PSPO_1.png" width="100%"></a>
 <a href="https://www.credly.com/badges/e527b899-4211-4cca-8d64-f3b7cc749485" target="_blank">Verify</a>
 </div>
 <!---->
