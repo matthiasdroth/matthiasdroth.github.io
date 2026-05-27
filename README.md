@@ -1,4 +1,4 @@
-<img src="images/md.png" width="15%">
+<img src="images/MD_Farbe.png" width="15%">
 
 <h2>Welcome to my <i>github.io</i>!</h2>
 <p>Here, you can <b>view and verify</b> my certifications. For further details on my curriculum vitæ and interests, please refer to my <a href="https://de.linkedin.com/in/matthias-droth" target="_blank">Linked<b>in</b></a> and <a href="https://github.com/matthiasdroth/" target="_blank">GitHub</a> profiles.</p>
