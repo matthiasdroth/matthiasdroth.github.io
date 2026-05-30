@@ -35,8 +35,7 @@
 <hr>
 <div>
 <h4>Building Transformer-Based Natural Language Processing Applications</h4>
-<p>
-Nvidia Deep Learning Institute</p>
+<p>Nvidia Deep Learning Institute</p>
 <a href="https://courses.nvidia.com/certificates/9631dd2e65324e3cbc352df537e10a4c/" target="_blank"><img src="images/Nvidia_Transformer_Apps.png" width="100%"></a>
 <a href="https://courses.nvidia.com/certificates/9631dd2e65324e3cbc352df537e10a4c/" target="_blank">Verify</a>
 </div>
