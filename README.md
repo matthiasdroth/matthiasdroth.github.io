@@ -59,7 +59,7 @@
 <hr>
 <!--Cloud / AWS-->
 <h3>Cloud / AWS</h3>
-<!---->
+<!--
 <hr>
 <div>
 <h4>AWS Certified Cloud Practitioner</h4>
@@ -67,7 +67,7 @@
 <a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank"><img src="images/AWS_CP.png" width="100%"></a>
 <a href="https://www.credly.com/badges/a61eb3bd-2994-4127-a2c8-10ddd9bb2bd6" target="_blank">Verify</a>
 </div>
-<!---->
+-->
 <hr>
 <div>
 <h4>Serverless using AWS Lambda for Python Developers</h4>
